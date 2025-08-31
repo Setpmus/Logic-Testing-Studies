@@ -1,8 +1,8 @@
 # My Logic & Testing Playground
 
-![GitHub repo size](https://img-shields.io/github/repo-size/Setmus/Logic-Testing-Studies?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/Setmus/Logic-Testing-Studies?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Setmus/Logic-Testing-Studies?style=for-the-badge)
+![GitHub repo size](https://img-shields.io/github/repo-size/Setpmus/Logic-Testing-Studies?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/Setpmus/Logic-Testing-Studies?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Setpmus/Logic-Testing-Studies?style=for-the-badge)
 
 > A place to keep and test everything I'm learning about code.
 
@@ -30,14 +30,13 @@ Here's what I'm using for this project:
 
 No big mystery, the structure is pretty straightforward:
 
-/
-├── 📁 Estudos/
-│   └── 📜 Estudos-python.py     # Study scripts and code snippets.
-│
-├── 📁 log/
-│   └── 📄 log.md                # My logbook
-│
-├── 📁 Projetos/
-│   └── ...                      # Bigger, more structured projects.
-│
-└── 📄 Readme.md                 # Explaining the whole deal (you are here!)
+```text
+.
+├── Estudos
+│   └── Estudos-python.py
+├── log
+│   └── log.md
+├── Projetos
+│   └── 0
+└── Readme.md
+```
