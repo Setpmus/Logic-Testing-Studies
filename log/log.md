@@ -1,7 +1,7 @@
 for i in range(5):
   for j in range(5):
     print(f'{i +1}{j}', end=' ')
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 n=6
 for i in range(n):
     for j in range(n):
@@ -10,7 +10,7 @@ for i in range(n):
         else:
             print(" ", end="")
     print()   
-
+-------------------------------------------------------------------------------------------------------------------------------------------
     clube_plaulistas = ['Santos', 'São Paulo', 'palmeiras', 'Mirasol', 'Bragantino','Corinthias'],
 Clubes_cariocas = ['Fluminece', 'Vasco', 'Botafogo', 'Flamengo']
 
@@ -24,7 +24,7 @@ teste2 = list(range(15, 20))
 teste = teste2
 teste.append(-10)
 print(teste)
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 num = int(input("Digite um numero: "))
 
 cont = 0
@@ -39,7 +39,7 @@ File "<ipython-input-61-f066208de4f7>", line 2
     for a in range(4:6)
     ^
 IndentationError: unexpected indent
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 valor_compra = float(input("Digite o custo do Produto: "))
 valor_venda = float(input("Digite o valor da venda do Produto: "))
 lucro= valor_venda - valor_compra
@@ -51,7 +51,7 @@ elif lucro == 0:
      print(f"Voce nao teve lucro e nem prejuizo")
 print(f"Valor do produto:{valor_compra}, Valor da Venda:{valor_venda}, Valor do Lucro:{lucro}")
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 ct = 0
 while True:
      numero = float(input("Digite um numero inteiro (Digite 0 para sair):"))
@@ -59,7 +59,7 @@ while True:
           break
      ct = ct + 1
 print(f"{ct} numeros digitados.")
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 ct = 0
 soma = 0
 while True:
@@ -72,3 +72,5 @@ while True:
           print("Digite um numero positivo")
      ct = ct + 1
 print(f"{ct} Numeros digitados. Soma dos numeros digitados: {soma}")
+
+-------------------------------------------------------------------------------------------------------------------------------------------
