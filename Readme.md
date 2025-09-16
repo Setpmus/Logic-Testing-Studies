@@ -31,12 +31,12 @@ Here's what I'm using for this project:
 No big mystery, the structure is pretty straightforward:
 
 ```text
-.
-├── Estudos
-│   └── Estudos-python.py
-├── log
-│   └── log.md
-├── Projetos
-│   └── 0
-└── Readme.md
+. # Eu vou arrumar isso mais tarde #
+├── ##########
+│   └── 
+├── ##########
+│   └── #########
+├── ##########
+│   └── ###########
+└── ################
 ```
