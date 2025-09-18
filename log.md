@@ -74,3 +74,34 @@ while True:
 print(f"{ct} Numeros digitados. Soma dos numeros digitados: {soma}")
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+/* 
+int main() {
+    printf("Olá, Mundo!\n");
+    return 0;
+}
+*//*
+int main() {
+    int idade = 25;
+    float peso = 68.5;
+    char tipo_sanguineo = 'A';
+
+    printf("A idade do paciente é: %d anos.\n", idade);
+    printf("O peso do paciente é: %f kg.\n", peso);
+    printf("O tipo sanguíneo é: %c.\n", tipo_sanguineo);
+
+    return 0;
+}
+/*
+int main() {
+    int numero_favorito;
+
+    printf("Por favor, digite o seu número favorito: ");
+
+    scanf("%d", &numero_favorito);
+
+    printf("Legal! Seu número favorito é %d.\n", numero_favorito);
+
+    return 0;
+}
+*/
+-------------------------------------------------------------------------------------------------------------------------------------------
